@@ -8,7 +8,7 @@ export default function Home() {
   const router = useRouter();
 
   useEffect(() => {
-    setTimeout(() => {
+    setInterval(() => {
       router.push("https://github.com/notpoiu");
     }, 5000);
   }, []);
