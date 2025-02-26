@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Those who know ☠️💀",
-  description: "mangos mangos mangos mangos mangos",
+  title: "those.uno",
+  description: "this is for those who know",
 };
 
 export default function RootLayout({
